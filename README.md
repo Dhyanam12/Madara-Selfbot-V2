@@ -271,4 +271,4 @@ General Informations:
 
 
 ## Credits
-Refurbishment, improvement, and restructuring of the [@humza1400](https://github.com/humza1400) SelfBot (dated 2019).
+Refurbishment, improvement, and restructuring of the [@humza1400](https://github.com/humza1400) SelfBot (dated 2019). Anyways Made it Better and use MY Brain :D
