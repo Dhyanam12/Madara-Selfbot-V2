@@ -1,0 +1,11 @@
+{
+    "token": "Token Here",
+    "password": "For Use Of All Commands like change avatar or username",
+    "prefix": ",",
+    "automsg_channel": "Not Needed Actually",
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "dsc.gg/senseiempire",
+    "tts_language": "en"
+}
