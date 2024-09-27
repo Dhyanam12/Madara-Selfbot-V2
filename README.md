@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/repo-size/Dhyanam12/Madara-Selfbot-V2.svg?label=Repo%20size&style=flat-square">
   </a>
   <a href="https://github.com/Dhyanam12">
-    <img src="https://avatars.githubusercontent.com/u/126333076?v=4">
+    <img src="https://gpvc.arturio.dev/Dhyanam12">
   </a></a>
   </a>
 </p>
