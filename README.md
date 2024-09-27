@@ -65,7 +65,7 @@ By using this SelfBot, you agree that you hold responsibility and accountability
   <summary>Useful Commands</summary>
 
 ```js
-- astraa
+- dhyanam
 - clear
 - sendall <message>
 - copycat <user>
